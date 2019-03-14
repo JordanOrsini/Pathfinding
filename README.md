@@ -6,8 +6,7 @@ folder in the project directory.
 In order to view the grid, computed shortest path, fill, clusters and/or connections
 to POV nodes you must be in scene view and not in the game view.
 
-
-Basic inputs (must be in game view):
+### Inputs (must be in game view):
 
 Alpha 1: Grid + Dijkstra
 
@@ -21,8 +20,7 @@ Alpha 5: POV + A*
 
 Alpha 6: POV + A* + Cluster
 
-
-Basic Legend:
+### Legend:
 
 White: Walkable node
 
@@ -32,8 +30,7 @@ Blue: Node that was once on the open list (visited)
 
 Green: Computed shortest path
 
-
-Cluster legend:
+### Cluster legend:
 
 Yellow: Cluster 1
 
